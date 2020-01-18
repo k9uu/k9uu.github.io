@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on kyubo</title>
-    <link>k9uu.github.io/posts/</link>
-    <description>Recent content in Posts on kyubo</description>
+    <title>Posts on kyuubo</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on kyuubo</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 18 Jan 2020 14:45:09 +0700</lastBuildDate>
     
-	<atom:link href="k9uu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Manjaro</title>
-      <link>k9uu.github.io/posts/manjaro/</link>
+      <link>/posts/manjaro/</link>
       <pubDate>Sat, 18 Jan 2020 14:45:09 +0700</pubDate>
       
-      <guid>k9uu.github.io/posts/manjaro/</guid>
+      <guid>/posts/manjaro/</guid>
       <description>FREE OPERATING SYSTEM FOR EVERYONE
 Manjaro is a professionally made Linux based operating system that is a suitable replacement for Windows or MacOS. Multiple Desktop Environments are available through our Official and Community editions. We also work with manufacturers to design dedicated hardware. Visit the shop for more information.</description>
     </item>
     
     <item>
       <title>Halaman Pertamaku</title>
-      <link>k9uu.github.io/posts/halaman-pertamaku/</link>
+      <link>/posts/halaman-pertamaku/</link>
       <pubDate>Sat, 18 Jan 2020 12:40:33 +0700</pubDate>
       
-      <guid>k9uu.github.io/posts/halaman-pertamaku/</guid>
+      <guid>/posts/halaman-pertamaku/</guid>
       <description>Post Pertama pada web ini
 nyaa~ nyaa~</description>
     </item>
