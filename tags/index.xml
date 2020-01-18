@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on kyubo</title>
+    <link>k9uu.github.io/tags/</link>
+    <description>Recent content in Tags on kyubo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 Jan 2020 12:40:33 +0700</lastBuildDate>
+    
+	<atom:link href="k9uu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>untagged</title>
+      <link>k9uu.github.io/tags/untagged/</link>
+      <pubDate>Sat, 18 Jan 2020 12:40:33 +0700</pubDate>
+      
+      <guid>k9uu.github.io/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

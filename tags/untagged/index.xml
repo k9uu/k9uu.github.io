@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on kyubo</title>
+    <link>k9uu.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on kyubo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 18 Jan 2020 12:40:33 +0700</lastBuildDate>
+    
+	<atom:link href="k9uu.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Halaman Pertamaku</title>
+      <link>k9uu.github.io/posts/halaman-pertamaku/</link>
+      <pubDate>Sat, 18 Jan 2020 12:40:33 +0700</pubDate>
+      
+      <guid>k9uu.github.io/posts/halaman-pertamaku/</guid>
+      <description>Post Pertama pada web ini
+nyaa~ nyaa~</description>
+    </item>
+    
+  </channel>
+</rss>
