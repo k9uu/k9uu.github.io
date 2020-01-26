@@ -5,10 +5,20 @@
     <link>/</link>
     <description>Recent content on kyuubo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 18 Jan 2020 14:45:09 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2020 10:33:05 +0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pindah Ke Manjaro</title>
+      <link>/posts/pindah-ke-manjaro/</link>
+      <pubDate>Sun, 26 Jan 2020 10:33:05 +0700</pubDate>
+      
+      <guid>/posts/pindah-ke-manjaro/</guid>
+      <description>Pindah ke Manjaro Pertama mulai meninggalkan jendela windows saya mencoba untuk mencari berbagai distro yang cocok bagi saya. Saat mencari di web Distro Watch Manjaro ada di peringkat 5 dengan tampilan yang frest membuat saya tertari mencobanya tetapi, saya baca berbagai web mengatakan kalau arch linux di khususkan bagi para pengguna linux yang sudah berpengalaman. Setalah membaca berbagai referensi akhirnya saya memilih untuk mencoba distro sejuta umat yaitu Ubuntu.
+&amp;quot; Mending pakai ubuntu aja dulu &amp;quot;</description>
+    </item>
     
     <item>
       <title>Manjaro</title>

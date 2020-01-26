@@ -4,16 +4,31 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-01-18T14:45:09+07:00</lastmod>
+    <lastmod>2020-01-26T10:33:05+07:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/manjaro/</loc>
-    <lastmod>2020-01-18T14:45:09+07:00</lastmod>
+    <loc>/posts/pindah-ke-manjaro/</loc>
+    <lastmod>2020-01-26T10:33:05+07:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/</loc>
+    <lastmod>2020-01-26T10:33:05+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/random/</loc>
+    <lastmod>2020-01-26T10:33:05+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-26T10:33:05+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/manjaro/</loc>
     <lastmod>2020-01-18T14:45:09+07:00</lastmod>
   </url>
   
@@ -24,11 +39,6 @@
   
   <url>
     <loc>/posts/halaman-pertamaku/</loc>
-    <lastmod>2020-01-18T12:40:33+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-01-18T12:40:33+07:00</lastmod>
   </url>
   
